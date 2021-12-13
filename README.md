@@ -1,6 +1,6 @@
 # Netflix-Exploratory-Data-Analysis
 
- This data contains data about Netflix, Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform.
+ This dataset contains data about Netflix, Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform.
  
  **Key Learning:**
 - Libraries: Pandas, Numpy, Plotly.

@@ -3,7 +3,7 @@
  This data contains data about Netflix, Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform.
  
  **Key Learning:**
-- Libraries: Pandas, Numpy, Plotly
+- Libraries: Pandas, Numpy, Plotly.
 - Explored data using `.head()`, `.describe()` and more!
 - Cleaned data by filling missing values and made dataset more readable.
 - Visualized data using Plotly library.

@@ -2,7 +2,7 @@
 
  This dataset contains data about Netflix, Netflix is one of the most popular media and video streaming platforms. They have over 8000 movies or tv shows available on their platform.
  
- To check out Notebook click [Here](https://nbviewer.org/github/payush624/Netflix-Exploratory-Data-Analysis/blob/main/Netflix%20Exploratory%20Data%20Analysis.ipynb)!
+ **To check out Notebook click [Here](https://nbviewer.org/github/payush624/Netflix-Exploratory-Data-Analysis/blob/main/Netflix%20Exploratory%20Data%20Analysis.ipynb)!**
  
  **Key Learning:**
 - Libraries: Pandas, Numpy, Plotly.
